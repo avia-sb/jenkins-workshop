@@ -1,4 +1,4 @@
-// This is a declarative Jenkins pipeline!
+// This is a declarative Jenkins pipeline
 
 pipeline {
     agent {
